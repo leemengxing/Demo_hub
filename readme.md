@@ -10,7 +10,7 @@ CV常见任务虽然大多都具备客观指标，但人类视觉信息的获取
 
 ##### 人脸关键点：
 
-![](face_landmark\landmark.gif)
+![](face_landmark/landmark.gif)
 
 
 关键点抖动解决：direct：表示每一帧都去人脸检测和关键点。post：加入人脸追踪和帧间平滑策略。
@@ -19,11 +19,11 @@ CV常见任务虽然大多都具备客观指标，但人类视觉信息的获取
 
 美颜：磨皮、美白、锐化。
 
-![](beauty_sticker\beauty.png)
+![](beauty_sticker/beauty.png)
 
 美型：大眼、瘦脸。
 
-![](beauty_sticker\deform.png)
+![](beauty_sticker/deform.png)
 
 2d贴纸：
 
@@ -41,9 +41,9 @@ CV常见任务虽然大多都具备客观指标，但人类视觉信息的获取
 #### 2. 人像matting：
 ##### 自动化节日海报：
 
-![](human_matting\test.png)
+![](human_matting/test.png)
 
-![](human_matting\compose.png)
+![](human_matting/compose.png)
 
 ##### 任意背景替换：
 
