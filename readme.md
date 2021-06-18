@@ -10,9 +10,8 @@ CV常见任务虽然大多都具备客观指标，但人类视觉信息的获取
 
 ##### 人脸关键点：
 
-<video controls="controls" name="media">     
-    <source src="face_landmark/landmark.mp4" type="video/mp4"> 
-</video>
+![](face_landmark\landmark.gif)
+
 
 关键点抖动解决：direct：表示每一帧都去人脸检测和关键点。post：加入人脸追踪和帧间平滑策略。
 
@@ -28,21 +27,15 @@ CV常见任务虽然大多都具备客观指标，但人类视觉信息的获取
 
 2d贴纸：
 
-<video controls="controls" name="media">     
-    <source src="beauty_sticker/sticker.mp4" type="video/mp4"> 
-</video>
+
+
 ##### 手势识别：
 
-<video controls="controls" name="media">     
-    <source src="gesture/hand.mp4" type="video/mp4"> 
-</video>
+![](gesture/hand.gif)
 
 ##### 肢体关键点：
 
-<video controls="controls" name="media">     
-    <source src="pose_landmark/pose.mp4" type="video/mp4"> 
-</video>
-
+![](pose_landmark/pose.gif)
 
 
 #### 2. 人像matting：
@@ -54,20 +47,16 @@ CV常见任务虽然大多都具备客观指标，但人类视觉信息的获取
 
 ##### 任意背景替换：
 
-<video controls="controls" name="media">     
-    <source src="background_replacement/demo.mp4" type="video/mp4"> 
-</video>
+![](background_replacement/demo.gif)
+
 #### 3. 视线追踪：
 
 专注度指标：
 
-<video controls="controls" name="media">     
-    <source src="gaze_tracking/gaze1.mp4" type="video/mp4"> 
-</video>
+![](gaze_tracking/gaze1.gif)
 
-<video controls="controls" name="media">     
-    <source src="gaze_tracking/gaze2.mp4" type="video/mp4"> 
-</video>
+![](gaze_tracking/gaze2.gif)
+
 ### TODO:
 
 - [ ] SDK-MNN部署代码
