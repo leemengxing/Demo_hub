@@ -61,6 +61,6 @@ CV常见任务虽然大多都具备客观指标，但人类视觉信息的获取
 
 - [ ] SDK-MNN部署代码
 
-- [ ] openGL 美颜和贴纸demo
+- [x] openGL 美颜和贴纸demo：https://github.com/leemengxing/GL_beauty.git
 
 - [ ] 其他技术博客
